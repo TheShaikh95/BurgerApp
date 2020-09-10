@@ -1,4 +1,4 @@
-##This project has met all the criteria listed below:
+#This project has met all the criteria listed below:
 
 Node Express Handlebars
 
@@ -19,3 +19,5 @@ Whenever a user submits a burger's name, your app will display the burger on the
 Each burger in the waiting area also has a Devour it! button. When the user clicks it, the burger will move to the right side of the page.
 
 Your app will store every burger in a database, whether devoured or not.
+
+Deployed link: https://mysterious-spire-57597.herokuapp.com/
